@@ -1,0 +1,22 @@
+div {
+    border: 1px dotted blue;
+}
+
+.hero-img {
+    background-image: url("images/phoenix-skyline-2.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: 343px;
+    width: 720px;
+    display: flex; 
+    justify-content: center;
+}
+
+.hero-text {
+    text-align: center;
+    /* font-weight: 700; */
+}
+
+h1 {
+    background-color: #FFFFFF;
+}
